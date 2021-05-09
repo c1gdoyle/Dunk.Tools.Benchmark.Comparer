@@ -1,0 +1,42 @@
+[
+  {
+    "MethodName": "SynchronisedHashSetTryAddAddsEachUniqueItemsOnlyOnce",
+    "Mean": "0.5 ms",
+    "Max": "0.5 ms",
+    "Median": "0.5 ms",
+    "Gen 0": "",
+    "Gen 1": "",
+    "Gen 2": "",
+    "Allocated": "5 KB"
+  },
+  {
+    "MethodName": "SynchronsiedHashSetTryAddAddsEachUniqueItemOnlyOnceMultiThreaded",
+    "Mean": "0.5 ms",
+    "Max": "0.5 ms",
+    "Median": "0.5 ms",
+    "Gen 0": "",
+    "Gen 1": "",
+    "Gen 2": "",
+    "Allocated": "5 KB"
+  },
+  {
+    "MethodName": "SynchronisedHashSetTryRemoveRemoveEachUniqueItemOnlyOnce",
+    "Mean": "0.5 ms",
+    "Max": "0.5 ms",
+    "Median": "0.5 ms",
+    "Gen 0": "",
+    "Gen 1": "",
+    "Gen 2": "",
+    "Allocated": "5 KB"
+  },
+  {
+    "MethodName": "SynchronisedHashSetTryRemoveRemoveEachUniqueItemOnlyOnceMultiThreaded",
+    "Mean": "0.5 ms",
+    "Max": "0.5 ms",
+    "Median": "0.5 ms",
+    "Gen 0": "",
+    "Gen 1": "",
+    "Gen 2": "",
+    "Allocated": "5 KB"
+  }
+]

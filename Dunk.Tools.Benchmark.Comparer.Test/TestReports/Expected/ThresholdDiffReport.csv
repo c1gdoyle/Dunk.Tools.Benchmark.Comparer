@@ -1,0 +1,9 @@
+Method, Mean Diff, Mean W/I ThresH, Median Diff, Median W/I ThresH, Max Diff, Max W/I ThresH, Gen 0 Diff, Gen 0 W/I ThresH, Gen 1 Diff, Gen 1 W/I ThresH, Gen 2 Diff, Gen 2 W/I ThresH, Allocated Diff, Allocated W/I ThresH
+ConcurrentHashSetTryAddAddsEachUniqueItemsOnlyOnce, 29000.0, True, 26700.0, True, 33600.0, True, 0.0000, True, 0.0000, True, 0.0000, True, 0.00, True
+ConcurrentHashSetTryAddAddsEachUniqueItemOnlyOnceMultiThreaded, 16400.0, True, 15900.0, True, 22700.0, True, 0.0000, True, 0.0000, True, 0.0000, True, 0.00, True
+ConcurrentHashSetTryRemoveRemoveEachUniqueItemOnlyOnce, 30900.0, True, 10200.0, True, 170700.0, True, 0.0000, True, 0.0000, True, 0.0000, True, 0.00, True
+ConcurrentHashSetTryRemoveRemoveEachUniqueItemOnlyOnceMultiThreaded, -154700.0, True, -154300.0, True, -152700.0, True, 0.9766, True, 0.0000, True, 0.0000, True, 0.00, True
+SynchronisedHashSetTryAddAddsEachUniqueItemsOnlyOnce, -15000.000, True, -9000.000, True, -58000.000, True, 0.0000, True, 0.0000, True, 0.0000, True, 0.00, True
+SynchronsiedHashSetTryAddAddsEachUniqueItemOnlyOnceMultiThreaded, 40000.000, True, 109000.000, True, -243000.000, True, -11.7188, True, 0.0000, True, 0.0000, True, 3650.00, True
+SynchronisedHashSetTryRemoveRemoveEachUniqueItemOnlyOnce, 35000.000, True, 35000.000, True, 30000.000, True, 0.0000, True, 0.0000, True, 0.0000, True, 0.00, True
+SynchronisedHashSetTryRemoveRemoveEachUniqueItemOnlyOnceMultiThreaded, -431000.000, True, -133000.000, True, -1476000.000, True, 0.0000, True, 0.0000, True, 0.0000, True, 710.00, True

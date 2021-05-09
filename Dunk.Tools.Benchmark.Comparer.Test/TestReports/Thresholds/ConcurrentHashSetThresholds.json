@@ -1,0 +1,42 @@
+[
+  {
+    "MethodName": "ConcurrentHashSetTryAddAddsEachUniqueItemsOnlyOnce",
+    "Mean": "200 us",
+    "Max": "200 us",
+    "Median": "200 us",
+    "Gen 0": "",
+    "Gen 1": "",
+    "Gen 2": "",
+    "Allocated": "2 KB"
+  },
+  {
+    "MethodName": "ConcurrentHashSetTryAddAddsEachUniqueItemOnlyOnceMultiThreaded",
+    "Mean": "200 us",
+    "Max": "200 us",
+    "Median": "200 us",
+    "Gen 0": "",
+    "Gen 1": "",
+    "Gen 2": "",
+    "Allocated": "2 KB"
+  },
+  {
+    "MethodName": "ConcurrentHashSetTryRemoveRemoveEachUniqueItemOnlyOnce",
+    "Mean": "200 us",
+    "Max": "200 us",
+    "Median": "200 us",
+    "Gen 0": "",
+    "Gen 1": "",
+    "Gen 2": "",
+    "Allocated": "2 KB"
+  },
+  {
+    "MethodName": "ConcurrentHashSetTryRemoveRemoveEachUniqueItemOnlyOnceMultiThreaded",
+    "Mean": "200 us",
+    "Max": "200 us",
+    "Median": "200 us",
+    "Gen 0": "",
+    "Gen 1": "",
+    "Gen 2": "",
+    "Allocated": "2 KB"
+  }
+]

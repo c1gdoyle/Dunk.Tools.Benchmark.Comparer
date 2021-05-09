@@ -1,0 +1,9 @@
+Method, Mean Diff, Median Diff, Max Diff, Gen 0 Diff, Gen 1 Diff, Gen 2 Diff, Allocated Diff
+ConcurrentHashSetTryAddAddsEachUniqueItemsOnlyOnce, 29000.0, 26700.0, 33600.0, 0.0000, 0.0000, 0.0000, 0.00
+ConcurrentHashSetTryAddAddsEachUniqueItemOnlyOnceMultiThreaded, 16400.0, 15900.0, 22700.0, 0.0000, 0.0000, 0.0000, 0.00
+ConcurrentHashSetTryRemoveRemoveEachUniqueItemOnlyOnce, 30900.0, 10200.0, 170700.0, 0.0000, 0.0000, 0.0000, 0.00
+ConcurrentHashSetTryRemoveRemoveEachUniqueItemOnlyOnceMultiThreaded, -154700.0, -154300.0, -152700.0, 0.9766, 0.0000, 0.0000, 0.00
+SynchronisedHashSetTryAddAddsEachUniqueItemsOnlyOnce, -15000.000, -9000.000, -58000.000, 0.0000, 0.0000, 0.0000, 0.00
+SynchronsiedHashSetTryAddAddsEachUniqueItemOnlyOnceMultiThreaded, 40000.000, 109000.000, -243000.000, -11.7188, 0.0000, 0.0000, 3650.00
+SynchronisedHashSetTryRemoveRemoveEachUniqueItemOnlyOnce, 35000.000, 35000.000, 30000.000, 0.0000, 0.0000, 0.0000, 0.00
+SynchronisedHashSetTryRemoveRemoveEachUniqueItemOnlyOnceMultiThreaded, -431000.000, -133000.000, -1476000.000, 0.0000, 0.0000, 0.0000, 710.00
